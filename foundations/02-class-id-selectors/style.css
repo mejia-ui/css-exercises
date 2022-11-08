@@ -1,0 +1,19 @@
+.odd{
+  background-color: rgb(248, 96, 119);
+  font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.odder{
+  font-size: 24px;
+}
+
+#sec{
+  color: rgb(10, 24, 171);
+  font-size: 36px;
+}
+
+#fourth{
+  background-color: rgb(91, 232, 120);
+  font-size: 24px;
+  font-weight: bold;
+}
